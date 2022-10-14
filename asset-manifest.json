@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a102879e.css",
-    "main.js": "/static/js/main.5c9068fc.js",
+    "main.js": "/static/js/main.841e0d60.js",
     "static/js/787.76af2a89.chunk.js": "/static/js/787.76af2a89.chunk.js",
+    "static/media/mixkit-long-pop-2358.wav": "/static/media/mixkit-long-pop-2358.8fe3317f5ff8f0128b9a.wav",
+    "static/media/chicken.jpg": "/static/media/chicken.f1bc26b01c5b8c203098.jpg",
+    "static/media/leopard.jpg": "/static/media/leopard.7285384559e8258687bd.jpg",
+    "static/media/fox.jpg": "/static/media/fox.2c09aaaffc896cf86734.jpg",
+    "static/media/dog.jpg": "/static/media/dog.0b3f9e24070fa18a61c5.jpg",
+    "static/media/fish.jpg": "/static/media/fish.5388804b58438b240fde.jpg",
+    "static/media/kingfisher.jpg": "/static/media/kingfisher.637ce9e4fe585d4ece18.jpg",
+    "static/media/mixkit-arcade-bonus-alert-767.mp3": "/static/media/mixkit-arcade-bonus-alert-767.e5477e98bee9848b048d.mp3",
+    "static/media/gamecard_back.jpg": "/static/media/gamecard_back.e5e062bf1e2460529b1e.jpg",
     "index.html": "/index.html",
     "main.a102879e.css.map": "/static/css/main.a102879e.css.map",
-    "main.5c9068fc.js.map": "/static/js/main.5c9068fc.js.map",
+    "main.841e0d60.js.map": "/static/js/main.841e0d60.js.map",
     "787.76af2a89.chunk.js.map": "/static/js/787.76af2a89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a102879e.css",
-    "static/js/main.5c9068fc.js"
+    "static/js/main.841e0d60.js"
   ]
 }
